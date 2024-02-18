@@ -22,7 +22,7 @@ In the future.
  
 
 ## Setup
-Setting up might look daunting and overwhelming, don't fret that's why the Giza discord is there  for you. If you go through the documentation of Giza and Orion and you find yourself having dificulties, bring that bug or thought to the discord channel.
+Setting up might look daunting and overwhelming, don't fret, that's why the Giza discord is there  for you. If you go through the documentation of Giza and Orion and you find yourself having dificulties, bring that bug or thought to the discord channel.
 
 ### Documentation
 https://orion.gizatech.xyz/framework/get-started
